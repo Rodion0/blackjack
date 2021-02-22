@@ -1,4 +1,3 @@
 #Blackjack 
 
-This is a simple backjack game wirtten in Python 
-
+This is a simple blackjack game wirtten in Java
